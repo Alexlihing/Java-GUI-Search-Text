@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fad3a85-be23-4b13-8dec-02cab2a106a7" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/src/SimpleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniversityCardGUI.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oK8uMPwgRkFWYOUJ2pcnmvoPc8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SearchClient.executor": "Run",
+    "Application.SearchClient2.executor": "Run",
+    "Application.SearchServer.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Application.SimpleServer.executor": "Run",
+    "Application.UniversityCardGUI.executor": "Run",
+    "Application.search.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alexl/CS180-Group-Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/alexl/IdeaProjects/CS 180 HW 11/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexl\IdeaProjects\CS 180 HW 11" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fad3a85-be23-4b13-8dec-02cab2a106a7" name="Changes" comment="" />
+      <created>1730607129573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730607129573</updated>
+      <workItem from="1730607130599" duration="598000" />
+      <workItem from="1730660266551" duration="19000" />
+      <workItem from="1730679438696" duration="4553000" />
+      <workItem from="1730690990442" duration="5290000" />
+      <workItem from="1730755974807" duration="11759000" />
+      <workItem from="1730857695149" duration="10909000" />
+      <workItem from="1730906551863" duration="71000" />
+      <workItem from="1730941974203" duration="287000" />
+      <workItem from="1730946832288" duration="4000" />
+      <workItem from="1730947027074" duration="10000" />
+      <workItem from="1730947395915" duration="254000" />
+      <workItem from="1730992850279" duration="1759000" />
+      <workItem from="1731270848909" duration="12000" />
+      <workItem from="1731282929057" duration="10000" />
+      <workItem from="1731712628541" duration="4000" />
+      <workItem from="1731881100058" duration="180000" />
+      <workItem from="1731966984441" duration="378000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1730993608122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730993608122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+1;Local birds;There are many birds of note in the Lafayette area. Each has unique characteristics such as a particular song or flight pattern.
+2;Programming languages;There are many different types of programming languages. Java is a high-level, object-oriented language.
+3;Lorem ipsum dolor;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+4;Ut enim;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+5;Duis aute;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6;Excepteur sint;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+7;Purdue Trivia;In the distant past, Purdue Pete was not the only mascot of the university. Another mascot, Rowdy, accompanied Purdue Pete to some games.
